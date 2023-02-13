@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/drawable/frame.xml" value="0.2155" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/activity_countries.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/activity_leader.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/activity_main.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/activity_museum.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/activity_wonders.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/cardview.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_aus.xml" value="0.2678737233054782" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_france.xml" value="0.2678737233054782" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_india.xml" value="0.24213176668065464" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_lab.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_ldal.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_lmah.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_lmar.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_lmt.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_lnel.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_mlou.xml" value="0.2633500684618896" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_msal.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_msha.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_mtat.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_mvm.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_uk.xml" value="0.2775372775372775" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_usa.xml" value="0.2678737233054782" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wchi.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wcol.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wgoc.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wgp.xml" value="0.17852722772277227" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wpet.xml" value="0.2112779201757598" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wrom.xml" value="0.2112779201757598" />
+        <entry key="..\:/Users/pramod/AndroidStudioProjects/InformationBook/app/src/main/res/layout/fragment_wtaj.xml" value="0.2724268177525968" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
